@@ -18,7 +18,7 @@ We were paid and unpaid vulunteers of the open source dream once known as Seele.
 - [Telegram Developer Channel](https://t.me/credoDevAnnounce)
 - [seele.pro](https://seele.pro/)
 - [github seeleteam](https://github.com/seeleteam/)
-- [seelescan](https://seelescan.net) (repairing)
+- [seelescan](https://seelescan.net) (repairing, hacked)
 
 ## Disclaimers
 > The following websites do not speak for us since April 26th.
