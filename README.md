@@ -10,10 +10,9 @@ We were paid and unpaid vulunteers of the open source dream once known as Seele.
 
 ## Expect
 
-- AMA questions will be continued to be collected through [Telegram Developer Group](https://t.me/credoDevTeam) with `#amadev` hashtag, answers will be posted AT LEAST weekly Friday 23:59:59 PT, starting on May 1st.
-- Daily updates of recources on this site.
-- Details of video AMA with Dr. Zheng Maolin and Dev Team to be announced.
-- Details of voting icons and trademarks to be announced.
+1. AMA questions will be continued to be collected through [Telegram Developer Group](https://t.me/credoDevTeam) with `#amadev` hashtag, answers will be posted AT LEAST weekly Friday 23:59:59 PT, starting on May 1st.
+0. Daily updates of recources on this site.
+0. Details of video AMA with Dr. Zheng Maolin and Dev Team to be announced.
 
 ## Resources
 
