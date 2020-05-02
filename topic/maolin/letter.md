@@ -1,7 +1,3 @@
-A letter to Seele Community from Dr. Maolin Zheng
-
-2020-04-28
-
 Dear friends and members of Seele Community,
 
 
