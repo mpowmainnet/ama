@@ -2,8 +2,6 @@
 > updated: 2020-05-01 19:52:10
 > Developers (or former developers) of Seele Mainnet and Subnet.
 
-![](img/credo.png)
-
 ## Us
 
 We were paid and unpaid vulunteers of the open source dream once known as Seele. We were the ones who conquered the challenges in sharding protocol, created and implemented the STEM subchain protocol, launched and maintained mainnet for a year, invented MPOW the anti-asic algorithm, used one man teams to develop SeeleWallet, SeeleScan, and many SDKs. Talk is cheap, look at the code.
@@ -23,6 +21,7 @@ We were paid and unpaid vulunteers of the open source dream once known as Seele.
 - [seelescan](https://seelescan.net) (repairing)
 
 ## Disclaimers
+> The following websites do not speak for us since April 26th.
 
 - ~~https://seelen.pro/~~
 - ~~https://t.me/seelenseelen2020~~
@@ -34,5 +33,7 @@ We were paid and unpaid vulunteers of the open source dream once known as Seele.
 - ~~https://www.weibo.com/u/6561132287~~
 
 ## Support
+
+![](img/credo.png)
 
 TBD
